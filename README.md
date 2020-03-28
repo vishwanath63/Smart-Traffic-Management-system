@@ -7,6 +7,7 @@ PROBLEM STATEMNET:
 STEPS TO BE FOLLOWED:
 
 1)First to run this project run the file traffic_video.py</br>
+
 2)When the file is runnning you can find the first step as uploading the video (https://learnml.s3.eu-north-1.amazonaws.com/road.mp4)</br>
 
 3)Then we start with background subtraction from the video which results the foreground image by removing the background.</br>
